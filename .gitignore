@@ -1,0 +1,6 @@
+.env
+.ipynb_checkpoints/
+dataset/
+credentials_module.json
+db_config.json
+settings.yaml

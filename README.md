@@ -1,1 +1,1 @@
-# data_airflow_workshop
+# airflow_workshop

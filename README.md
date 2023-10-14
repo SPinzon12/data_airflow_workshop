@@ -106,7 +106,7 @@ base de datos), a continuación, hacer algunas transformaciones y combinar los d
 
 9. **Obtener e Insertar el Conjunto de Datos:**
 
-   Descarga el conjunto de datos de Spotify desde Kaggle y colócalo en la carpeta `./etl_dag/dataset`. Asegúrate de que el conjunto de datos de los Grammy se encuentre en la base de datos y se inserte en la tabla correspondiente llamada "grammy".
+   Descarga el conjunto de datos de Spotify desde Kaggle y colócalo en la carpeta `./dataset`. Asegúrate de que el conjunto de datos de los Grammy se encuentre en la base de datos y se inserte en la tabla correspondiente llamada "grammy".
 
    Nota: Puedes nombrar la tabla de los Grammy como desees. Si decides utilizar un nombre diferente, asegúrate de ajustar la lectura de la tabla correspondiente en el archivo `./etl_dag/db_operations.py`.
 
